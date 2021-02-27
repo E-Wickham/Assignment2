@@ -39,7 +39,7 @@ namespace Assignment2.Controllers
             ///<param name="n">Die 2</param>
             ///<example> api/J2/DiceGame/2/2 -> 0</example>
             ///<example> api/J2/DiceGame/5/5 -> 1</example> 
-            ///<returns>The total number of the </returns>
+            ///<returns>The total number of possible combinations of the number ten depending on the number of sides per the two die </returns>
 
         }
 
